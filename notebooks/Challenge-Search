@@ -1,0 +1,5 @@
+Life = w1 * oxygen + w2 * water + w3* hydrogen + w4*nitrogen + w5 * sunlight + w6*ozone + bias 
+
+While leaving Earth, a new planet must support various distributions of factors above. Each factor could have a different weight. 
+
+What are 3 ways to find the most suitable planet to travel?
